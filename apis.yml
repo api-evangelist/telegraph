@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://telegra.ph/api
 common:
+  - type: DomainSecurity
+    url: security/telegraph-domain-security.yml
   - type: Website
     url: https://telegra.ph/api
   - type: PublicAPIsListing
