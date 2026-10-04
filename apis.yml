@@ -39,7 +39,6 @@ apis:
   - name: Telegraph
     description: "Create attractive blogs easily, to share"
     humanURL: https://telegra.ph/api
-    baseURL: https://telegra.ph/api
     tags:
       - Social
     properties:
